@@ -1,0 +1,20 @@
+---
+#Config by Aleondev
+
+seconds: 30
+
+tip:
+- "§7Mache §e/night"
+
+tip2:
+- "§cMache §e/clearchat"
+
+tip3:
+- "§cMache §e/flyon"
+
+tip4:
+- "§cMache §e/flyoff"
+
+tip5:
+- "§cMache §e/essential"
+...
